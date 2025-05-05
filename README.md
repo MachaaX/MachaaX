@@ -2,17 +2,17 @@
 <h3 align="center">A Passionate Machine Learning and Software Developer Based in New Jersey</h3>
 
 <p align="center">
-🌱 I’m currently learning Computer Vision
+I’m currently learning Computer Vision!
 </p>
 <p align="center">
-😄 Alias: MachaaX
+Alias: MachaaX
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MachaaX&style=flat-square&color=brightgreen" alt="Profile views" />
 </p>
   
-## 💻 Tech Stack
+## Tech Stack
 
 <p align="center">
   <!-- Languages & Databases -->
@@ -54,11 +54,12 @@
   <img src="https://img.shields.io/badge/Google-Maps%20V3-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Maps V3"/>
 </p>
 
-## 📈 GitHub Stats
-
+## GitHub Stats
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MachaaX&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
+-->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MachaaX&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
@@ -75,7 +76,7 @@
 </p>
 -->
   
-## 🤝 Connect with Me:
+## Connect with Me:
 
 <p align="center">
   <a href="mailto:pavan.kokkiligadda@rutgers.edu"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
