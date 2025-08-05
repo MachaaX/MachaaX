@@ -54,6 +54,7 @@ Alias: MachaaX
   <img src="https://img.shields.io/badge/Newspaper3k-E13333?style=flat-square" alt="Newspaper3k"/>
   <img src="https://img.shields.io/badge/Trafilatura-D2504E?style=flat-square&logo=python&logoColor=white" alt="Trafilatura"/>
   <img src="https://img.shields.io/badge/LangDetect-2E8B57?style=flat-square&logo=python&logoColor=white" alt="LangDetect"/>
+  <img src="https://img.shields.io/badge/Langid-8A2BE2?style=flat-square&logo=python&logoColor=white" alt="Langid"/>
   <img src="https://img.shields.io/badge/Google-Maps%20V3-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Maps V3"/>
 </p>
 
