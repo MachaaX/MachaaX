@@ -38,6 +38,7 @@ Alias: MachaaX
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
   <img src="https://img.shields.io/badge/PySpark-E78732?style=flat-square&logo=apache-spark&logoColor=white" alt="PySpark"/>
   <img src="https://img.shields.io/badge/spaCy-0C4F9A?style=flat-square&logo=python&logoColor=white" alt="spaCy"/>
+  <img src="https://img.shields.io/badge/Stanza-0052A2?style=flat-square&logo=python&logoColor=white" alt="Stanza"/>
   <img src="https://img.shields.io/badge/NLTK-CEA212?style=flat-square&logo=python&logoColor=white" alt="NLTK"/>
   <img src="https://img.shields.io/badge/Transformers-0052EB?style=flat-square" alt="Transformers"/>
   <img src="https://img.shields.io/badge/BERTopic-732e6c?style=flat-square" alt="BERTopic"/>
@@ -51,6 +52,8 @@ Alias: MachaaX
   <img src="https://img.shields.io/badge/Folium-5A79A2?style=flat-square" alt="Folium"/>
   <img src="https://img.shields.io/badge/GeoPy-7DC4F6?style=flat-square&logo=python&logoColor=white" alt="GeoPy"/>
   <img src="https://img.shields.io/badge/Newspaper3k-E13333?style=flat-square" alt="Newspaper3k"/>
+  <img src="https://img.shields.io/badge/Trafilatura-D2504E?style=flat-square&logo=python&logoColor=white" alt="Trafilatura"/>
+  <img src="https://img.shields.io/badge/LangDetect-2E8B57?style=flat-square&logo=python&logoColor=white" alt="LangDetect"/>
   <img src="https://img.shields.io/badge/Google-Maps%20V3-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Maps V3"/>
 </p>
 
