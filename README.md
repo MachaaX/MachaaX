@@ -43,7 +43,7 @@ Alias: MachaaX
   <img src="https://img.shields.io/badge/Transformers-0052EB?style=flat-square" alt="Transformers"/>
   <img src="https://img.shields.io/badge/BERTopic-732e6c?style=flat-square" alt="BERTopic"/>
   <img src="https://img.shields.io/badge/Gensim-004C8B?style=flat-square&logo=gensim&logoColor=white" alt="Gensim"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+<!--   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/> -->
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" alt="SciPy"/>
@@ -51,11 +51,13 @@ Alias: MachaaX
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white" alt="Seaborn"/>
   <img src="https://img.shields.io/badge/Folium-5A79A2?style=flat-square" alt="Folium"/>
   <img src="https://img.shields.io/badge/GeoPy-7DC4F6?style=flat-square&logo=python&logoColor=white" alt="GeoPy"/>
+  <img src="https://img.shields.io/badge/GeoPandas-005573?style=flat-square&logo=python&logoColor=white" alt="GeoPandas"/>
   <img src="https://img.shields.io/badge/Newspaper3k-E13333?style=flat-square" alt="Newspaper3k"/>
   <img src="https://img.shields.io/badge/Trafilatura-D2504E?style=flat-square&logo=python&logoColor=white" alt="Trafilatura"/>
   <img src="https://img.shields.io/badge/LangDetect-2E8B57?style=flat-square&logo=python&logoColor=white" alt="LangDetect"/>
   <img src="https://img.shields.io/badge/Langid-8A2BE2?style=flat-square&logo=python&logoColor=white" alt="Langid"/>
   <img src="https://img.shields.io/badge/Google-Maps%20V3-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Maps V3"/>
+  <img src="https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=flat-square&logo=python&logoColor=white" alt="BeautifulSoup"/>
 </p>
 
 ## GitHub Stats
@@ -73,7 +75,7 @@ Alias: MachaaX
 
 <p align="left">
   <a href=""><b>smart-chatbot</b></a>  
-  • An NLP‑powered chatbot.  
+  • An NLP-powered chatbot.  
 
   <a href=""><b>portfolio-website</b></a>  
   • Personal portfolio built with React and Next.js.  
