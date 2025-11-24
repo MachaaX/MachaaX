@@ -27,8 +27,15 @@ Alias: MachaaX
 
 <p align="center">
   <!-- Frameworks & Tools -->
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="Apache Spark"/>
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Databricks"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <!-- <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/> -->
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
 </p>
 
 <p align="center">
@@ -37,19 +44,21 @@ Alias: MachaaX
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
   <img src="https://img.shields.io/badge/PySpark-E78732?style=flat-square&logo=apache-spark&logoColor=white" alt="PySpark"/>
+  <img src="https://img.shields.io/badge/LangChain-0E9D57?style=flat-square&logo=chainlink&logoColor=white" alt="LangChain"/>
   <img src="https://img.shields.io/badge/spaCy-0C4F9A?style=flat-square&logo=python&logoColor=white" alt="spaCy"/>
   <img src="https://img.shields.io/badge/Stanza-0052A2?style=flat-square&logo=python&logoColor=white" alt="Stanza"/>
   <img src="https://img.shields.io/badge/NLTK-CEA212?style=flat-square&logo=python&logoColor=white" alt="NLTK"/>
   <img src="https://img.shields.io/badge/Transformers-0052EB?style=flat-square" alt="Transformers"/>
   <img src="https://img.shields.io/badge/BERTopic-732e6c?style=flat-square" alt="BERTopic"/>
   <img src="https://img.shields.io/badge/Gensim-004C8B?style=flat-square&logo=gensim&logoColor=white" alt="Gensim"/>
-<!--   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/> -->
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=python&logoColor=white" alt="YOLO"/>
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" alt="SciPy"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white" alt="Seaborn"/>
-  <img src="https://img.shields.io/badge/Folium-5A79A2?style=flat-square" alt="Folium"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly"/>
+  <img src="https://img.shields.io/badge/Dash-119DFF?style=flat-square&logo=plotly&logoColor=white" alt="Dash"/>
   <img src="https://img.shields.io/badge/GeoPy-7DC4F6?style=flat-square&logo=python&logoColor=white" alt="GeoPy"/>
   <img src="https://img.shields.io/badge/GeoPandas-005573?style=flat-square&logo=python&logoColor=white" alt="GeoPandas"/>
   <img src="https://img.shields.io/badge/Newspaper3k-E13333?style=flat-square" alt="Newspaper3k"/>
