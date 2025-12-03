@@ -1,12 +1,14 @@
 <h1 align="center">Hi, I’m Pavan Kumar</h1>
-<h3 align="center">A Passionate Machine Learning and Software Developer Based in New Jersey</h3>
+<h3 align="center">A Passionate Machine Learning and Software Developer based in New Jersey</h3>
 
 <p align="center">
 I’m currently learning Computer Vision!
 </p>
+<!--
 <p align="center">
 Alias: MachaaX
 </p>
+-->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MachaaX&style=flat-square&color=brightgreen" alt="Profile views" />
