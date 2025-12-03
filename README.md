@@ -11,11 +11,11 @@ Alias: MachaaX
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MachaaX&style=flat-square&color=brightgreen" alt="Profile views" />
 </p>
-  
+
+<!--
 ## Tech Stack
 
 <p align="center">
-  <!-- Languages & Databases -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java"/>
@@ -26,20 +26,17 @@ Alias: MachaaX
 </p>
 
 <p align="center">
-  <!-- Frameworks & Tools -->
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="Apache Spark"/>
   <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Databricks"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-  <!-- <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/> -->
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
 </p>
 
 <p align="center">
-  <!-- Libraries & Packages -->
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
@@ -68,16 +65,21 @@ Alias: MachaaX
   <img src="https://img.shields.io/badge/Google-Maps%20V3-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Maps V3"/>
   <img src="https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=flat-square&logo=python&logoColor=white" alt="BeautifulSoup"/>
 </p>
+-->
 
+<!--
 ## GitHub Stats
+-->
 <!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MachaaX&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
 -->
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MachaaX&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
+-->
 
 <!--
 ## 🚀 Pinned Projects
@@ -90,9 +92,11 @@ Alias: MachaaX
   • Personal portfolio built with React and Next.js.  
 </p>
 -->
-  
-## Connect with Me:
 
+<!--
+## Connect with Me:
+-->
+<h2 align="center">Connect with Me:</h2>
 <p align="center">
   <a href="mailto:pavan.kokkiligadda@rutgers.edu"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
